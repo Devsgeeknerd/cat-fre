@@ -9,6 +9,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **Introdução ao Freelance:** Fundamentos e conceitos básicos do trabalho como freelancer.
   * O que é freelancing?
+  * Vantagens e desafios do trabalho freelance;
 
 * **Gestão de Projetos:** Aprender a planejar, executar e finalizar projetos de maneira eficiente.
   * Metodologias ágeis;
