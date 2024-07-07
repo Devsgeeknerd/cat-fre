@@ -33,11 +33,15 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Contabilidade básica para freelancers;
   * Gestão de impostos e faturamento.
 
-* **Marketing Pessoal:** Aprender a promover seus serviços e construir uma marca pessoal forte.
+* **Marketing Pessoal e Aquisição de Clientes:** Aprender a promover seus serviços e construir uma marca pessoal forte.
   * Desenvolvimento de portfólio;
   * Marketing nas redes sociais;
   * Estratégias de networking;
   * Criação de um site pessoal.
+  * Estratégias de marketing digital
+  * Uso de plataformas de freelancing;
+  * E-mail marketing e campanhas de publicidade
+  * Fidelização de clientes e referência
 
 * **Encontro e Gestão de Clientes:** Técnicas para encontrar e manter clientes satisfeitos.
   * Técnicas de networking;
