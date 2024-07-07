@@ -36,6 +36,8 @@ Essas competências são essenciais para atrair e reter clientes, gerenciar proj
 
 > [!IMPORTANT]\
 > **Dicas de Estudo:**
+>
+> * Networking:
 
 <!-- Informações -->
 ## &#8505; Informações
