@@ -12,6 +12,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Ferramentas de gestão de projetos;
   * Planejamento e organização de tarefas.
 
+* **Negociação e Contratos:** Entender como negociar termos e condições e redigir contratos que protejam ambas as partes.
+
 Essas competências são essenciais para atrair e reter clientes, gerenciar projetos eficientemente e manter uma carreira freelance sustentável.
 
 <!-- Informações -->
