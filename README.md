@@ -8,6 +8,7 @@ A categoria Freelance é fundamental para aqueles que desejam trabalhar de forma
 Ao completar esta categoria, terá habilidades robustas em:
 
 * **Introdução ao Freelance:** Fundamentos e conceitos básicos do trabalho como freelancer.
+  * O que é freelancing?
 
 * **Gestão de Projetos:** Aprender a planejar, executar e finalizar projetos de maneira eficiente.
   * Metodologias ágeis;
