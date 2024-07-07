@@ -39,6 +39,8 @@ Essas competências são essenciais para atrair e reter clientes, gerenciar proj
 >
 > * Networking:
 >   * Construa uma rede de contatos profissional tanto online quanto offline.
+>
+> * Portfólio:
 
 <!-- Informações -->
 ## &#8505; Informações
