@@ -44,6 +44,7 @@ Essas competências são essenciais para atrair e reter clientes, gerenciar proj
 >   * Desenvolva um portfólio robusto que demonstre suas habilidades e projetos anteriores.
 >
 > * Continuidade:
+>   * Mantenha-se atualizado com as ultimas tendências e técnicas tanto na sua area técnica quanto nas práticas de freelancing.
 
 <!-- Informações -->
 ## &#8505; Informações
