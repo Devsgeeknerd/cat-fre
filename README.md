@@ -3,6 +3,12 @@
 
 ***Conteúdo da Categoria:***
 
+A categoria Freelance é fundamental para aqueles que desejam trabalhar de forma independente e construir uma carreira bem-sucedida.
+
+Ao completar esta categoria, terá habilidades robustas em:
+
+Essas competências são essenciais para atrair e reter clientes, gerenciar projetos eficientemente e manter uma carreira freelance sustentável.
+
 <!-- Informações -->
 ## &#8505; Informações
 
