@@ -27,6 +27,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Marketing nas redes sociais;
   * Branding pessoal.
 
+* **Encontro e Gestão de Clientes:** Técnicas para encontrar e manter clientes satisfeitos.
+
 Essas competências são essenciais para atrair e reter clientes, gerenciar projetos eficientemente e manter uma carreira freelance sustentável.
 
 <!-- Informações -->
