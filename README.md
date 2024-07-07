@@ -13,7 +13,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Áreas comuns de trabalho freelance;
   * Ferramentas essenciais para freelancers.
 
-* **Gerenciamento de Projetos:** Aprender a planejar, executar e finalizar projetos de maneira eficiente.
+* **Gerenciamento de Projetos:** Aprender a planejar, executar e finalizar projetos de clientes de maneira eficiente.
   * Metodologias ágeis;
   * Ferramentas de gestão de projetos;
   * Planejamento e organização de tarefas.
