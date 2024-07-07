@@ -15,6 +15,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Negociação e Contratos:** Entender como negociar termos e condições e redigir contratos que protejam ambas as partes.
   * Técnicas de negociação;
   * Estruturação de contratos;
+  * Termos e condições.
 
 Essas competências são essenciais para atrair e reter clientes, gerenciar projetos eficientemente e manter uma carreira freelance sustentável.
 
