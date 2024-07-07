@@ -48,6 +48,12 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Uso de plataformas de freelancing;
   * Gestão de relacionamento com clientes.
 
+* **Aspectos Legais do Freelancing:** Considerações legais importantes para freelancers.
+  * Direitos autorais e propriedade intelectual
+  * Contratos e acordos de confidencialidade
+  * Regulações trabalhistas e fiscais
+  * Resolução de disputas legais
+
 Essas competências são essenciais para atrair e reter clientes, gerenciar projetos eficientemente e manter uma carreira freelance sustentável.
 
 > [!IMPORTANT]\
