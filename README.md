@@ -17,6 +17,10 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Metodologias ágeis;
   * Ferramentas de gestão de projetos;
   * Planejamento e organização de tarefas.
+  * Planejamento e execução de projetos
+  * Ferramentas de gerenciamento de projetos;
+  * Comunicação com clientes;
+  * Gestão de prazos e entregas.
 
 * **Negociação e Contratos:** Entender como negociar termos e condições e redigir contratos que protejam ambas as partes.
   * Técnicas de negociação;
