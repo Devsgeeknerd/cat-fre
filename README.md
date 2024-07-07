@@ -34,6 +34,8 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 Essas competências são essenciais para atrair e reter clientes, gerenciar projetos eficientemente e manter uma carreira freelance sustentável.
 
+> [!IMPORTANT]\
+
 <!-- Informações -->
 ## &#8505; Informações
 
