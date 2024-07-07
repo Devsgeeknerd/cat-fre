@@ -30,6 +30,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Encontro e Gestão de Clientes:** Técnicas para encontrar e manter clientes satisfeitos.
   * Técnicas de networking;
   * Uso de plataformas de freelancing;
+  * Gestão de relacionamento com clientes.
 
 Essas competências são essenciais para atrair e reter clientes, gerenciar projetos eficientemente e manter uma carreira freelance sustentável.
 
