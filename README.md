@@ -22,6 +22,12 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Comunicação com clientes;
   * Gestão de prazos e entregas.
 
+* **Gestão de Tempo e Produtividade:** Técnicas para gerenciar o tempo e aumentar a produtividade como freelancer.
+  * Técnicas de gerenciamento de tempo;
+  * Planejamento de projetos e tarefas;
+  * Manutenção do equilíbrio entre vida profissional e pessoal;
+  * Ferramentas de produtividade.
+
 * **Negociação e Contratos:** Entender como negociar termos e condições e redigir contratos que protejam ambas as partes.
   * Técnicas de negociação;
   * Estruturação de contratos;
