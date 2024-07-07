@@ -25,6 +25,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Marketing Pessoal:** Aprender a promover seus serviços e construir uma marca pessoal forte.
   * Criação de portfólio;
   * Marketing nas redes sociais;
+  * Branding pessoal.
 
 Essas competências são essenciais para atrair e reter clientes, gerenciar projetos eficientemente e manter uma carreira freelance sustentável.
 
