@@ -7,6 +7,8 @@ A categoria Freelance é fundamental para aqueles que desejam trabalhar de forma
 
 Ao completar esta categoria, terá habilidades robustas em:
 
+* **Gestão de Projetos:** Aprender a planejar, executar e finalizar projetos de maneira eficiente.
+
 Essas competências são essenciais para atrair e reter clientes, gerenciar projetos eficientemente e manter uma carreira freelance sustentável.
 
 <!-- Informações -->
