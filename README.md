@@ -25,7 +25,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 * **Negociação e Contratos:** Entender como negociar termos e condições e redigir contratos que protejam ambas as partes.
   * Técnicas de negociação;
   * Estruturação de contratos;
-  * Termos e condições.
+  * Estabelecimento de contratos e termos de serviço.
 
 * **Precificação e Finanças:** Saber como precificar seus serviços e gerenciar suas finanças como freelance.
   * Modelos de precificação (por hora, por projeto, por valor);
