@@ -11,6 +11,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * O que é freelancing?
   * Vantagens e desafios do trabalho freelance;
   * Áreas comuns de trabalho freelance;
+  * Ferramentas essenciais para freelancers.
 
 * **Gestão de Projetos:** Aprender a planejar, executar e finalizar projetos de maneira eficiente.
   * Metodologias ágeis;
