@@ -9,6 +9,7 @@ Ao completar esta categoria, terá habilidades robustas em:
 
 * **Gestão de Projetos:** Aprender a planejar, executar e finalizar projetos de maneira eficiente.
   * Metodologias ágeis;
+  * Ferramentas de gestão de projetos;
 
 Essas competências são essenciais para atrair e reter clientes, gerenciar projetos eficientemente e manter uma carreira freelance sustentável.
 
