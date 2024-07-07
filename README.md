@@ -34,9 +34,10 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Gestão de impostos e faturamento.
 
 * **Marketing Pessoal:** Aprender a promover seus serviços e construir uma marca pessoal forte.
-  * Criação de portfólio;
+  * Desenvolvimento de portfólio;
   * Marketing nas redes sociais;
-  * Branding pessoal.
+  * Estratégias de networking;
+  * Criação de um site pessoal.
 
 * **Encontro e Gestão de Clientes:** Técnicas para encontrar e manter clientes satisfeitos.
   * Técnicas de networking;
