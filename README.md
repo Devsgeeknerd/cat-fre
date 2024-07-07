@@ -28,10 +28,14 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Estabelecimento de contratos e termos de serviço;
   * Lidando com clientes difíceis.
 
-* **Precificação e Finanças:** Saber como precificar seus serviços e gerenciar suas finanças como freelance.
+* **Precificação e Finanças Pessoais:** Saber como precificar seus serviços e gerenciar suas finanças como freelance.
   * Modelos de precificação (por hora, por projeto, por valor);
   * Contabilidade básica para freelancers;
-  * Gestão de impostos e faturamento.
+  * Gestão de impostos e faturamento;
+  * Orçamento pessoal e planejamento financeiro;
+  * Impostos e obrigações fiscais;
+  * Ferramentas de contabilidade;
+  * Poupança e investimentos para freelancers.
 
 * **Marketing Pessoal e Aquisição de Clientes:** Aprender a promover seus serviços e construir uma marca pessoal forte.
   * Desenvolvimento de portfólio;
