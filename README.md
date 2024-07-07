@@ -22,6 +22,8 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Contabilidade básica para freelancers;
   * Gestão de impostos e faturamento.
 
+* **Marketing Pessoal:** Aprender a promover seus serviços e construir uma marca pessoal forte.
+
 Essas competências são essenciais para atrair e reter clientes, gerenciar projetos eficientemente e manter uma carreira freelance sustentável.
 
 <!-- Informações -->
