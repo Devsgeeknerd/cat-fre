@@ -18,6 +18,7 @@ Ao completar esta categoria, terá habilidades robustas em:
   * Termos e condições.
 
 * **Precificação e Finanças:** Saber como precificar seus serviços e gerenciar suas finanças como freelance.
+  * Modelos de precificação (por hora, por projeto, por valor);
 
 Essas competências são essenciais para atrair e reter clientes, gerenciar projetos eficientemente e manter uma carreira freelance sustentável.
 
