@@ -42,6 +42,8 @@ Essas competências são essenciais para atrair e reter clientes, gerenciar proj
 >
 > * Portfólio:
 >   * Desenvolva um portfólio robusto que demonstre suas habilidades e projetos anteriores.
+>
+> * Continuidade:
 
 <!-- Informações -->
 ## &#8505; Informações
