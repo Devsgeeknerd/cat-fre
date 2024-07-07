@@ -41,6 +41,7 @@ Essas competências são essenciais para atrair e reter clientes, gerenciar proj
 >   * Construa uma rede de contatos profissional tanto online quanto offline.
 >
 > * Portfólio:
+>   * Desenvolva um portfólio robusto que demonstre suas habilidades e projetos anteriores.
 
 <!-- Informações -->
 ## &#8505; Informações
